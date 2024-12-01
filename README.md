@@ -55,6 +55,4 @@
 
 ---
 
-## 📸 Sample Puzzles and Output
 
-### Example Puzzle Input
